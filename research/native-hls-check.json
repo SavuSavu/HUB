@@ -1,0 +1,21 @@
+{
+  "checkedAt": "2026-10-08T12:18:56.599Z",
+  "origin": "https://savusavu.github.io",
+  "url": "https://stf04.vip/137821/137821.m3u8",
+  "state": {
+    "nativeHls": "maybe",
+    "readyState": 0,
+    "currentTime": 0,
+    "duration": null,
+    "paused": true,
+    "error": {
+      "code": 4,
+      "message": "PipelineStatus::DEMUXER_ERROR_COULD_NOT_PARSE"
+    },
+    "playError": "NotSupportedError: Failed to load because no supported source was found.",
+    "crossOrigin": null
+  },
+  "errors": [
+    "Failed to load resource: net::ERR_FAILED"
+  ]
+}

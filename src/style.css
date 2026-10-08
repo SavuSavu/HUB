@@ -907,3 +907,76 @@ footer {
 .episode-ending strong {
   overflow-wrap: anywhere;
 }
+.playback-panel {
+  margin-top: 20px;
+}
+.playback-panel .external {
+  margin-top: 0;
+}
+.playback-panel .external h3 {
+  margin: 0;
+  color: #dfd7f3;
+  font-size: 16px;
+}
+.playback-caption {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  font-size: 12px;
+  color: #b5a9cb;
+  overflow-wrap: anywhere;
+}
+.video-inputs {
+  padding: 20px;
+  margin-top: 20px;
+  border: 1px solid #302c3e;
+  background: #191721;
+  border-radius: 12px;
+}
+.file-video {
+  cursor: pointer;
+  margin-bottom: 18px;
+}
+.video-url-form > label {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 12px;
+  color: #c8bdda;
+  margin-bottom: 10px;
+}
+.video-url-fields {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+.video-url-fields input {
+  flex: 1;
+  min-width: 160px;
+  font-size: 12px;
+}
+.video-url-fields select {
+  font-size: 12px;
+  max-width: 130px;
+}
+.video-input-note {
+  font-size: 11px;
+  line-height: 1.7;
+  color: #91869f;
+  margin: 15px 0 0;
+}
+@media (max-width: 560px) {
+  .video-inputs {
+    padding: 14px;
+  }
+  .video-url-fields input {
+    flex-basis: 100%;
+  }
+  .playback-caption {
+    font-size: 11px;
+  }
+  .video-url-fields .primary {
+    flex: 1;
+  }
+}

@@ -1,0 +1,229 @@
+[
+  {
+    "id": "fsonline-app",
+    "checks": [
+      {
+        "title": "Ghost Light",
+        "url": "https://www3.fsonline.app/film/ghost-light-2026/",
+        "status": 200,
+        "finalUrl": "https://www3.fsonline.app/film/ghost-light-2026/",
+        "xframe": null,
+        "csp": null,
+        "iframeSources": [],
+        "scripts": [
+          "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.0/js/all.min.js",
+          "https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.1.1/lazysizes.min.js",
+          "https://www.googletagmanager.com/gtag/js?id=UA-158736634-1",
+          "/q7m3x9.js",
+          "https://www3.fsonline.app/wp-includes/js/jquery/jquery.min.js",
+          "https://www3.fsonline.app/wp-includes/js/jquery/jquery-migrate.min.js",
+          "https://www3.fsonline.app/wp-content/themes/fsonline/assets/js/lib/mcsbscrollbar.js",
+          "https://www3.fsonline.app/wp-content/themes/fsonline/assets/js/lib/owlcarousel.js",
+          "https://www3.fsonline.app/wp-content/themes/fsonline/assets/js/lib/idtabs.js",
+          "https://www3.fsonline.app/wp-content/themes/fsonline/assets/js/lib/isrepeater.js",
+          "https://www3.fsonline.app/wp-content/themes/fsonline/assets/js/min/front.scripts.2.2.2.js",
+          "https://www3.fsonline.app/wp-includes/js/comment-reply.min.js",
+          "https://www3.fsonline.app/wp-content/themes/fsonline/assets/js/lib/blueimp.js",
+          "https://www3.fsonline.app/wp-content/themes/fsonline/assets/js/min/front.livesearch.2.2.2.js",
+          "https://www3.fsonline.app/wp-content/themes/fsonline/assets/js/min/front.ajax.2.2.2.js",
+          "https://www3.fsonline.app/wp-content/themes/fsonline/assets/js/lib/starstruck.raty.js",
+          "https://www3.fsonline.app/wp-content/themes/fsonline/assets/js/lib/starstruck.js",
+          "https://www3.fsonline.app/wp-content/plugins/akismet/_inc/akismet-frontend.js"
+        ]
+      },
+      {
+        "title": "Alterity",
+        "url": "https://www3.fsonline.app/film/alterity-2026/",
+        "status": 200,
+        "finalUrl": "https://www3.fsonline.app/film/alterity-2026/",
+        "xframe": null,
+        "csp": null,
+        "iframeSources": [],
+        "scripts": [
+          "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.0/js/all.min.js",
+          "https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.1.1/lazysizes.min.js",
+          "https://www.googletagmanager.com/gtag/js?id=UA-158736634-1",
+          "/q7m3x9.js",
+          "https://www3.fsonline.app/wp-includes/js/jquery/jquery.min.js",
+          "https://www3.fsonline.app/wp-includes/js/jquery/jquery-migrate.min.js",
+          "https://www3.fsonline.app/wp-content/themes/fsonline/assets/js/lib/mcsbscrollbar.js",
+          "https://www3.fsonline.app/wp-content/themes/fsonline/assets/js/lib/owlcarousel.js",
+          "https://www3.fsonline.app/wp-content/themes/fsonline/assets/js/lib/idtabs.js",
+          "https://www3.fsonline.app/wp-content/themes/fsonline/assets/js/lib/isrepeater.js",
+          "https://www3.fsonline.app/wp-content/themes/fsonline/assets/js/min/front.scripts.2.2.2.js",
+          "https://www3.fsonline.app/wp-includes/js/comment-reply.min.js",
+          "https://www3.fsonline.app/wp-content/themes/fsonline/assets/js/lib/blueimp.js",
+          "https://www3.fsonline.app/wp-content/themes/fsonline/assets/js/min/front.livesearch.2.2.2.js",
+          "https://www3.fsonline.app/wp-content/themes/fsonline/assets/js/min/front.ajax.2.2.2.js",
+          "https://www3.fsonline.app/wp-content/themes/fsonline/assets/js/lib/starstruck.raty.js",
+          "https://www3.fsonline.app/wp-content/themes/fsonline/assets/js/lib/starstruck.js",
+          "https://www3.fsonline.app/wp-content/plugins/akismet/_inc/akismet-frontend.js"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "fsonline-one",
+    "checks": [
+      {
+        "title": "The Widower: ‘Til Death Do Us Part",
+        "url": "https://fsonline.one/film/the-widower-til-death-do-us-part-2026-online-subtitrat/",
+        "status": 200,
+        "finalUrl": "https://fsonline.one/film/the-widower-til-death-do-us-part-2026-online-subtitrat/",
+        "xframe": "SAMEORIGIN",
+        "csp": "default-src 'self' https: data: blob; img-src 'self' https: data: blob; script-src 'self' https: 'unsafe-inline' 'unsafe-eval'; style-src 'self' https: 'unsafe-inline'; font-src 'self' https: data:; connect-src 'self' https: wss:; frame-ancestors 'self'; base-uri 'self'; object-src 'none'; upgrade-insecure-requests; trusted-types default",
+        "iframeSources": [],
+        "scripts": [
+          "https://www.googletagmanager.com/gtag/js?id=G-2SCGG7D0ZD",
+          "//acscdn.com/script/aclib.js",
+          "https://fsonline.one/assets/js/community-v2.js?v=2",
+          "https://platform-api.sharethis.com/js/sharethis.js#property=68e117689ac1bf93b5eb1f10&product=sop",
+          "https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.1.1/lazysizes.min.js",
+          "https://fsonline.one/assets/js/fsonline-v6.js?v=6"
+        ]
+      },
+      {
+        "title": "Verity",
+        "url": "https://fsonline.one/film/verity-2026-online-subtitrat/",
+        "status": 200,
+        "finalUrl": "https://fsonline.one/film/verity-2026-online-subtitrat/",
+        "xframe": "SAMEORIGIN",
+        "csp": "default-src 'self' https: data: blob; img-src 'self' https: data: blob; script-src 'self' https: 'unsafe-inline' 'unsafe-eval'; style-src 'self' https: 'unsafe-inline'; font-src 'self' https: data:; connect-src 'self' https: wss:; frame-ancestors 'self'; base-uri 'self'; object-src 'none'; upgrade-insecure-requests; trusted-types default",
+        "iframeSources": [],
+        "scripts": [
+          "https://www.googletagmanager.com/gtag/js?id=G-2SCGG7D0ZD",
+          "//acscdn.com/script/aclib.js",
+          "https://fsonline.one/assets/js/community-v2.js?v=2",
+          "https://platform-api.sharethis.com/js/sharethis.js#property=68e117689ac1bf93b5eb1f10&product=sop",
+          "https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.1.1/lazysizes.min.js",
+          "https://fsonline.one/assets/js/fsonline-v6.js?v=6"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sitefilme",
+    "checks": [
+      {
+        "title": "The Widower: ‘Til Death Do Us Part",
+        "url": "https://sitefilme.com/online/137821/",
+        "status": 200,
+        "finalUrl": "https://sitefilme.com/online/137821/",
+        "xframe": "SAMEORIGIN",
+        "csp": null,
+        "iframeSources": [],
+        "scripts": [
+          "https://sitefilme.com/wp-includes/js/comment-reply.min.js?ver=7.1.3"
+        ]
+      },
+      {
+        "title": "Project Hail Mary",
+        "url": "https://sitefilme.com/online/132470/",
+        "status": 200,
+        "finalUrl": "https://sitefilme.com/online/132470/",
+        "xframe": "SAMEORIGIN",
+        "csp": null,
+        "iframeSources": [],
+        "scripts": [
+          "https://sitefilme.com/wp-includes/js/comment-reply.min.js?ver=7.1.3"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "9anime-or",
+    "checks": [
+      {
+        "title": "A Returner’s Magic Should be Special Season 2",
+        "url": "https://9anime.or.at/a-returners-magic-should-be-special-season-2-episode-1-english-subbed/",
+        "status": 200,
+        "finalUrl": "https://9anime.or.at/a-returners-magic-should-be-special-season-2-episode-1-english-subbed/",
+        "xframe": null,
+        "csp": null,
+        "iframeSources": [],
+        "scripts": [
+          "//gr.belchlipin.com/rop9lLf8fYLRDS0p/143751",
+          "https://9anime.or.at/wp-content/themes/9animetv/assets/js/jquery.min.js?ver=3.7.1",
+          "https://9anime.or.at/wp-content/themes/9animetv/assets/js/pagination.min.js?ver=1.0.4",
+          "https://www.googletagmanager.com/gtag/js?id=G-26T30XBJXX",
+          "https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.bundle.min.js?ver=1.0.4",
+          "https://9anime.or.at/wp-content/themes/9animetv/assets/js/jquery.qtip.min.js?ver=3.0.3",
+          "https://9anime.or.at/wp-content/themes/9animetv/assets/js/script.js?ver=1.0.4",
+          "https://9anime.or.at/wp-content/themes/9animetv/assets/js/bookmark.js?ver=1.0"
+        ]
+      },
+      {
+        "title": "Dandivine",
+        "url": "https://9anime.or.at/dandivine-episode-1-english-subbed/",
+        "status": 200,
+        "finalUrl": "https://9anime.or.at/dandivine-episode-1-english-subbed/",
+        "xframe": null,
+        "csp": null,
+        "iframeSources": [],
+        "scripts": [
+          "//gr.belchlipin.com/rop9lLf8fYLRDS0p/143751",
+          "https://9anime.or.at/wp-content/themes/9animetv/assets/js/jquery.min.js?ver=3.7.1",
+          "https://9anime.or.at/wp-content/themes/9animetv/assets/js/pagination.min.js?ver=1.0.4",
+          "https://www.googletagmanager.com/gtag/js?id=G-26T30XBJXX",
+          "https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.bundle.min.js?ver=1.0.4",
+          "https://9anime.or.at/wp-content/themes/9animetv/assets/js/jquery.qtip.min.js?ver=3.0.3",
+          "https://9anime.or.at/wp-content/themes/9animetv/assets/js/script.js?ver=1.0.4",
+          "https://9anime.or.at/wp-content/themes/9animetv/assets/js/bookmark.js?ver=1.0"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gogoanime",
+    "checks": [
+      {
+        "title": "Magic Knight Rayearth",
+        "url": "https://gogoanime.by/magic-knight-rayearth-2026-episode-1-english-subbed/",
+        "status": 200,
+        "finalUrl": "https://gogoanime.by/magic-knight-rayearth-2026-episode-1-english-subbed/",
+        "xframe": null,
+        "csp": null,
+        "iframeSources": [],
+        "scripts": [
+          "https://gogoanime.by/wp-content/themes/dramastream/assets/js/jquery.min.js?ver=3.6.0",
+          "https://gogoanime.by/wp-content/themes/dramastream/assets/js/tsfn.js?ver=2.2.2",
+          "https://gogoanime.by/wp-content/themes/dramastream/assets/js/bookmark.js?ver=2.2.2",
+          "//tq.minusesasfast.com/r5wZdI0boL5xio/155474",
+          "https://www.googletagmanager.com/gtag/js?id=G-8KW6LYG84H",
+          "https://gogoanime.by/wp-content/themes/dramastream/assets/js/timeago.min.js?ver=1.6.7",
+          "https://gogoanime.by/wp-content/themes/dramastream/assets/js/dexie.min.js?ver=3.2.4",
+          "https://gogoanime.by/wp-content/themes/dramastream/assets/js/series-history.js?ver=2.2.2",
+          "https://gogoanime.by/wp-content/themes/dramastream/assets/js/filter.js?ver=2.2.2",
+          "https://gogoanime.by/wp-content/themes/dramastream/assets/js/tsevents.js?ver=2.2.2",
+          "https://gogoanime.by/wp-content/plugins/video-issue-reporter/assets/js/report.js?ver=1.8.0",
+          "https://gogoanime.by/wp-content/plugins/akismet/_inc/akismet-frontend.js?ver=1787211602",
+          "https://gogoanime.by/wp-content/themes/dramastream/assets/js/owl.carousel.min.js?ver=2.3.4.1"
+        ]
+      },
+      {
+        "title": "Kikansha no Mahou wa Tokubetsu desu 2nd Season",
+        "url": "https://gogoanime.by/kikansha-no-mahou-wa-tokubetsu-desu-2nd-season-episode-1-english-subbed/",
+        "status": 200,
+        "finalUrl": "https://gogoanime.by/kikansha-no-mahou-wa-tokubetsu-desu-2nd-season-episode-1-english-subbed/",
+        "xframe": null,
+        "csp": null,
+        "iframeSources": [],
+        "scripts": [
+          "https://gogoanime.by/wp-content/themes/dramastream/assets/js/jquery.min.js?ver=3.6.0",
+          "https://gogoanime.by/wp-content/themes/dramastream/assets/js/tsfn.js?ver=2.2.2",
+          "https://gogoanime.by/wp-content/themes/dramastream/assets/js/bookmark.js?ver=2.2.2",
+          "//tq.minusesasfast.com/r5wZdI0boL5xio/155474",
+          "https://www.googletagmanager.com/gtag/js?id=G-8KW6LYG84H",
+          "https://gogoanime.by/wp-content/themes/dramastream/assets/js/timeago.min.js?ver=1.6.7",
+          "https://gogoanime.by/wp-content/themes/dramastream/assets/js/dexie.min.js?ver=3.2.4",
+          "https://gogoanime.by/wp-content/themes/dramastream/assets/js/series-history.js?ver=2.2.2",
+          "https://gogoanime.by/wp-content/themes/dramastream/assets/js/filter.js?ver=2.2.2",
+          "https://gogoanime.by/wp-content/themes/dramastream/assets/js/tsevents.js?ver=2.2.2",
+          "https://gogoanime.by/wp-content/plugins/video-issue-reporter/assets/js/report.js?ver=1.8.0",
+          "https://gogoanime.by/wp-content/plugins/akismet/_inc/akismet-frontend.js?ver=1787211602",
+          "https://gogoanime.by/wp-content/themes/dramastream/assets/js/owl.carousel.min.js?ver=2.3.4.1"
+        ]
+      }
+    ]
+  }
+]

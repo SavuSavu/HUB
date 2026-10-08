@@ -1,0 +1,57 @@
+[
+  {
+    "id": "gogoanime",
+    "url": "https://gogoanime.by/magic-knight-rayearth-2026-episode-1-english-subbed/",
+    "controls": [
+      {
+        "tag": "DIV",
+        "id": "adl-21611-1-btn",
+        "label": "Download",
+        "href": null
+      }
+    ],
+    "downloads": [],
+    "notice": [
+      "\n\n                        AnimeDL HTTP 404\n\n                    "
+    ],
+    "responses": [
+      {
+        "status": null,
+        "success": null,
+        "message": null
+      },
+      {
+        "status": null,
+        "success": false,
+        "message": "AnimeDL HTTP 404"
+      }
+    ]
+  },
+  {
+    "id": "9anime-or",
+    "url": "https://9anime.or.at/a-returners-magic-should-be-special-season-2-episode-1-english-subbed/",
+    "controls": [],
+    "downloads": [],
+    "notice": [],
+    "responses": [
+      {
+        "status": null,
+        "success": null,
+        "message": null
+      },
+      {
+        "status": null,
+        "success": null,
+        "message": null
+      }
+    ]
+  },
+  {
+    "id": "fsonline-one",
+    "url": "https://fsonline.one/film/nightfall-a-paranormal-investigation-2024-online-subtitrat/",
+    "controls": [],
+    "downloads": [],
+    "notice": [],
+    "responses": []
+  }
+]

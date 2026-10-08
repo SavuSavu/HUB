@@ -141,7 +141,9 @@ test("autoplay advances exactly once, crosses seasons and stops at the finale", 
     .toBeGreaterThanOrEqual(2);
   await endEpisode(page);
   await expect(page.locator("video")).toHaveAttribute("src", /s2e1\.webm$/);
-  await expect(page.getByRole("dialog").getByRole("combobox")).toHaveValue("2");
+  await expect(
+    page.getByRole("dialog").getByLabel("Season", { exact: true }),
+  ).toHaveValue("2");
   await expect
     .poll(() =>
       page.locator("video").evaluate((v: HTMLVideoElement) => v.readyState),

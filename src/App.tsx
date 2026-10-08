@@ -20,7 +20,7 @@ import { search, getTitle, loadJSON } from "./catalog";
 import { sourceDefinitions, safeUrl } from "./sources";
 import { episodeSource } from "./playback";
 import type { Title, Summary, Episode, Profile } from "./types";
-const Player = React.lazy(() => import("./Player"));
+import PlaybackPanel from "./PlaybackPanel";
 export default function App({ onLock }: { onLock: () => void }) {
   const [index, setIndex] = useState<Summary[]>([]);
   const [error, setError] = useState("");
@@ -136,7 +136,7 @@ export default function App({ onLock }: { onLock: () => void }) {
     setActiveSource(episodeSource(e, activeSource));
   };
   const links = episode?.links ?? selected?.links ?? [];
-  const playback = links.find((l) => l.source === activeSource)?.playback;
+
   const featured = index.find((t) => t.poster);
   const genres = [...new Set(index.flatMap((t) => t.genres))].sort();
   return (
@@ -638,6 +638,7 @@ export default function App({ onLock }: { onLock: () => void }) {
                 <label>
                   Season{" "}
                   <select
+                    aria-label="Season"
                     value={season}
                     onChange={(e) => setSeason(Number(e.target.value))}
                   >
@@ -710,36 +711,15 @@ export default function App({ onLock }: { onLock: () => void }) {
                   </button>
                 ))}
             </div>
-            {playback && playback.type !== "external" && profile ? (
-              <React.Suspense fallback={<p>Loading player…</p>}>
-                <Player
-                  title={selected}
-                  episode={episode}
-                  media={playback}
-                  profile={profile}
-                  onNext={chooseEpisode}
-                />
-              </React.Suspense>
-            ) : (
-              <div className="external">
-                <p>
-                  This source uses its own player. Open the provider page to
-                  watch. HUB cannot track playback in an external tab.
-                </p>
-                {links
-                  .filter((l) => l.source === activeSource && safeUrl(l.url))
-                  .map((l) => (
-                    <a
-                      className="primary"
-                      key={l.url}
-                      href={l.url}
-                      target="_blank"
-                      rel="noreferrer"
-                    >
-                      Open source player <ArrowUpRight size={16} />
-                    </a>
-                  ))}
-              </div>
+            {profile && (
+              <PlaybackPanel
+                key={`${profile.id}:${selected.id}:${episode?.id ?? "movie"}:${activeSource}`}
+                title={selected}
+                episode={episode}
+                profile={profile}
+                sourceLink={links.find((link) => link.source === activeSource)}
+                onNext={chooseEpisode}
+              />
             )}
             {!selected.episodes.length && selected.kind !== "movie" && (
               <p className="muted">

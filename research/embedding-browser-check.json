@@ -1,0 +1,26 @@
+[
+  {
+    "id": "gogoanime",
+    "url": "https://gogoanime.by/player/?source=blogger&url=OEFiYWF0dXVMVHZTUGV1Ylh3WlJ4NDd2bFNMWk05bGtFRkhiWWVFWnZTWitpU1BWcWgzZWRrTitGL0JZVkVvemlURzJCYUtzK2xLbVNqc1EybzZwbi8rTXY3aUpLaVRCeXYwMHZyWTMxOUk9",
+    "frameNavigated": true,
+    "frameText": "Access denied. Your domain is not allowed.",
+    "childFrames": [
+      "https://savusavu.github.io/HUB/",
+      "https://gogoanime.by/player/"
+    ],
+    "media": [],
+    "errors": []
+  },
+  {
+    "id": "9anime-or",
+    "url": "https://my.1anime.site/play/98c926a11530d45a6534c8107bc743f6",
+    "frameNavigated": true,
+    "frameText": "Embedding not allowed",
+    "childFrames": [
+      "https://savusavu.github.io/HUB/",
+      "https://my.1anime.site/play/98c926a11530d45a6534c8107bc743f6"
+    ],
+    "media": [],
+    "errors": []
+  }
+]

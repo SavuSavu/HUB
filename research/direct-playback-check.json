@@ -1,0 +1,17 @@
+{
+  "source": "sitefilme",
+  "checkedAt": "2026-10-08T12:12:38.646Z",
+  "url": "https://stf04.vip/137821/137821.m3u8",
+  "origin": "https://savusavu.github.io",
+  "status": 200,
+  "cors": "https://sitefilme.com",
+  "contentType": "application/vnd.apple.mpegurl",
+  "isManifest": true,
+  "encrypted": false,
+  "firstResource": {
+    "url": "https://stf04.vip/137821/1378210.ts",
+    "status": 206,
+    "cors": "https://sitefilme.com",
+    "contentType": "video/mp2t"
+  }
+}

@@ -16,12 +16,14 @@ export default function Player({
   media,
   profile,
   onNext,
+  inputKind = "source",
 }: {
   title: Title;
   episode?: Episode;
   media: Playback;
   profile: Profile;
   onNext: (e: Episode) => void;
+  inputKind?: "source" | "file" | "url";
 }) {
   const ref = useRef<HTMLVideoElement>(null);
   const stage = useRef<HTMLDivElement>(null);
@@ -126,7 +128,11 @@ export default function Player({
     };
     const fail = () => {
       setError(
-        "This provider could not be played in your browser. Open its source page instead.",
+        inputKind === "file"
+          ? "This video format or codec is not supported by your browser. Try a compatible MP4 or WebM file."
+          : inputKind === "url"
+            ? "This video link could not be played. The host may restrict access, or the link may have expired."
+            : "This provider could not be played in your browser. Open its source page instead.",
       );
       setTail({ visible: false, remaining: 0, ended: false });
     };
@@ -200,6 +206,7 @@ export default function Player({
     profile.cacheMB,
     profile.concurrency,
     nextProvider,
+    inputKind,
   ]);
   return (
     <div className="player">
@@ -209,7 +216,7 @@ export default function Player({
           controls
           autoPlay
           playsInline
-          crossOrigin="anonymous"
+          crossOrigin={media.type === "hls" ? "anonymous" : undefined}
         />
         {tail.visible && !error && (
           <div className="episode-ending" aria-label="Episode ending">

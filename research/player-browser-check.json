@@ -1,0 +1,103 @@
+[
+  {
+    "id": "fsonline-app",
+    "url": "https://www3.fsonline.app/film/ghost-light-2026/",
+    "frames": [
+      {
+        "src": "",
+        "id": ""
+      }
+    ],
+    "playerLinks": [],
+    "videos": [],
+    "errors": []
+  },
+  {
+    "id": "fsonline-one",
+    "url": "https://fsonline.one/film/the-widower-til-death-do-us-part-2026-online-subtitrat/",
+    "frames": [
+      {
+        "src": "https://fsonline.one/film/the-widower-til-death-do-us-part-2026-online-subtitrat/",
+        "id": "iframe-embed"
+      },
+      {
+        "src": "https://fsonline.one/film/the-widower-til-death-do-us-part-2026-online-subtitrat/",
+        "id": "trailerMainVideo"
+      }
+    ],
+    "playerLinks": [],
+    "videos": [],
+    "errors": [
+      "Creating a worker from 'blob:https://fsonline.one/ddc2b9c8-89fd-4853-aad8-3c2ffb2e7afd' violates the following Content Security Policy directive: \"script-src 'self' https: 'unsafe-inline' 'unsafe-eval'\". Note that 'worke"
+    ]
+  },
+  {
+    "id": "9anime-or",
+    "url": "https://9anime.or.at/a-returners-magic-should-be-special-season-2-episode-1-english-subbed/",
+    "frames": [
+      {
+        "src": "https://my.1anime.site/play/98c926a11530d45a6534c8107bc743f6",
+        "id": "iframe-embed"
+      },
+      {
+        "src": "https://disqus.com/embed/comments/?base=default&f=9anime-or-at&t_i=3739&t_u=https%3A%2F%2F9anime.or.at%2Fa-returners-magic-should-be-special-season-2-episode-1-english-subbed%2F&t_d=A%20Returner%27s%20Magic%20Should%20be%20Special%20Season%202%20Episode%201%20English%20Subbed%20-%209anime&t_t=A%20Returner%27s%20Magic%20Should%20be%20Special%20Season%202%20Episode%201%20English%20Subbed%20-%209anime&s_o=default#version=fbc318e2a6aca6da35f641dcbc47c3c1",
+        "id": "dsq-app5653"
+      },
+      {
+        "src": "",
+        "id": ""
+      }
+    ],
+    "playerLinks": [],
+    "videos": [
+      {
+        "frame": "https://my.1anime.site/play/98c926a11530d45a6534c8107bc743f6",
+        "videos": [
+          {
+            "readyState": 0,
+            "duration": null,
+            "mediaHost": "my.1anime.site",
+            "mediaPath": "/stream/98c926a11530d45a6534c8107bc743f6",
+            "ephemeralUrlOmitted": false
+          }
+        ]
+      }
+    ],
+    "errors": []
+  },
+  {
+    "id": "gogoanime",
+    "url": "https://gogoanime.by/magic-knight-rayearth-2026-episode-1-english-subbed/",
+    "frames": [
+      {
+        "src": "https://gogoanime.by/player/?source=blogger&url=OEFiYWF0dXVMVHZTUGV1Ylh3WlJ4NDd2bFNMWk05bGtFRkhiWWVFWnZTWitpU1BWcWgzZWRrTitGL0JZVkVvemlURzJCYUtzK2xLbVNqc1EybzZwbi8rTXY3aUpLaVRCeXYwMHZyWTMxOUk9",
+        "id": ""
+      }
+    ],
+    "playerLinks": [
+      {
+        "url": "https://gogoanime.by/player/?source=blogger&url=OEFiYWF0dXVMVHZTUGV1Ylh3WlJ4NDd2bFNMWk05bGtFRkhiWWVFWnZTWitpU1BWcWgzZWRrTitGL0JZVkVvemlURzJCYUtzK2xLbVNqc1EybzZwbi8rTXY3aUpLaVRCeXYwMHZyWTMxOUk9",
+        "name": "SD"
+      },
+      {
+        "url": "https://gogoanime.by/player/?source=embed&url=V3oraS9OdVNOdFNoTUZuWm9qa1FrQys3VS9Udzg0Y2REM2JtUThONEZzNXQxV0Znd2dvVXdYQW03RzFzT1paWnFCd2lYYXlweXUyZWM4aUNReXVMV1ZZMmlnU2VOa1VxU2puOHViWnloMU09",
+        "name": "HD"
+      }
+    ],
+    "videos": [
+      {
+        "frame": "https://gogoanime.by/player/?source=blogger&url=OEFiYWF0dXVMVHZTUGV1Ylh3WlJ4NDd2bFNMWk05bGtFRkhiWWVFWnZTWitpU1BWcWgzZWRrTitGL0JZVkVvemlURzJCYUtzK2xLbVNqc1EybzZwbi8rTXY3aUpLaVRCeXYwMHZyWTMxOUk9",
+        "videos": [
+          {
+            "readyState": 0,
+            "duration": null,
+            "mediaHost": "rr2---sn-5hne6n6l.googlevideo.com",
+            "mediaPath": "/videoplayback",
+            "ephemeralUrlOmitted": true
+          }
+        ]
+      }
+    ],
+    "errors": []
+  }
+]

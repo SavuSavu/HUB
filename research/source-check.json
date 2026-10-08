@@ -1,0 +1,176 @@
+[
+  {
+    "id": "fsonline-app",
+    "url": "https://www3.fsonline.app/",
+    "checkedAt": "2026-10-08T11:43:17.237Z",
+    "samples": [
+      {
+        "title": "Brothers",
+        "url": "https://www3.fsonline.app/episoade/brothers-sezonul-1-episodul-4/",
+        "status": 200,
+        "cors": null,
+        "iframeCount": 0,
+        "videoCount": 0,
+        "directMedia": [],
+        "episodeLinks": 2
+      }
+    ],
+    "directPlaybackVerified": false,
+    "authorizedCachingVerified": false,
+    "status": 200,
+    "finalUrl": "https://www3.fsonline.app/home2/",
+    "cors": null,
+    "search": [
+      {
+        "action": "https://www3.fsonline.app",
+        "parameters": [
+          "s"
+        ]
+      },
+      {
+        "action": "https://www3.fsonline.app",
+        "parameters": [
+          "s"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "fsonline-one",
+    "url": "https://fsonline.one/",
+    "checkedAt": "2026-10-08T11:43:18.100Z",
+    "samples": [
+      {
+        "title": "Brothers",
+        "url": "https://fsonline.one/serial/brothers-2026-appletv-online-subtitrat/",
+        "status": 200,
+        "cors": null,
+        "iframeCount": 2,
+        "videoCount": 0,
+        "directMedia": [],
+        "episodeLinks": 4
+      }
+    ],
+    "directPlaybackVerified": false,
+    "authorizedCachingVerified": false,
+    "status": 200,
+    "finalUrl": "https://fsonline.one/",
+    "cors": null,
+    "search": [
+      {
+        "action": "https://fsonline.one/search",
+        "parameters": [
+          "keyword"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sitefilme",
+    "url": "https://sitefilme.com/",
+    "checkedAt": "2026-10-08T11:43:18.516Z",
+    "samples": [
+      {
+        "title": "The Widower: ‘Til Death Do Us Part",
+        "url": "https://sitefilme.com/online/137821/",
+        "status": 200,
+        "cors": null,
+        "iframeCount": 0,
+        "videoCount": 1,
+        "directMedia": [],
+        "episodeLinks": 0
+      }
+    ],
+    "directPlaybackVerified": false,
+    "authorizedCachingVerified": false,
+    "status": 200,
+    "finalUrl": "https://sitefilme.com/",
+    "cors": null,
+    "search": [
+      {
+        "action": "https://sitefilme.com/",
+        "parameters": [
+          "s"
+        ]
+      },
+      {
+        "action": "https://sitefilme.com/",
+        "parameters": [
+          "s"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "9anime-or",
+    "url": "https://9anime.or.at/",
+    "checkedAt": "2026-10-08T11:43:18.980Z",
+    "samples": [
+      {
+        "title": "A Returner’s Magic Should be Special Season 2",
+        "url": "https://9anime.or.at/a-returners-magic-should-be-special-season-2-episode-1-english-subbed/",
+        "status": 200,
+        "cors": null,
+        "iframeCount": 1,
+        "videoCount": 0,
+        "directMedia": [],
+        "episodeLinks": 0
+      }
+    ],
+    "directPlaybackVerified": false,
+    "authorizedCachingVerified": false,
+    "status": 200,
+    "finalUrl": "https://9anime.or.at/",
+    "cors": null,
+    "search": [
+      {
+        "action": "https://9anime.or.at/",
+        "parameters": [
+          "s"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gogoanime",
+    "url": "https://gogoanime.by/",
+    "checkedAt": "2026-10-08T11:43:19.714Z",
+    "samples": [
+      {
+        "title": "Magic Knight Rayearth",
+        "url": "https://gogoanime.by/magic-knight-rayearth-2026-episode-1-english-subbed/",
+        "status": 200,
+        "cors": null,
+        "iframeCount": 0,
+        "videoCount": 0,
+        "directMedia": [],
+        "episodeLinks": 11
+      }
+    ],
+    "directPlaybackVerified": false,
+    "authorizedCachingVerified": false,
+    "status": 200,
+    "finalUrl": "https://gogoanime.by/",
+    "cors": null,
+    "search": [
+      {
+        "action": "https://gogoanime.by/",
+        "parameters": [
+          "s"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "9anime-cfd",
+    "url": "https://9anime.cfd/",
+    "checkedAt": "2026-10-08T11:43:23.394Z",
+    "samples": [],
+    "directPlaybackVerified": false,
+    "authorizedCachingVerified": false,
+    "status": 200,
+    "finalUrl": "https://9anime.cfd/",
+    "cors": null,
+    "search": []
+  }
+]

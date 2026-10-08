@@ -1,0 +1,27 @@
+name: Refresh metadata catalog
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - run: npm run catalog
+      - run: npm test && npm run build
+        env:
+          VITE_ACCESS_HASH: ${{ secrets.HUB_ACCESS_HASH }}
+          VITE_ACCESS_SALT: ${{ secrets.HUB_ACCESS_SALT }}
+      - name: Commit metadata
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add public/catalog
+          git diff --cached --quiet || git commit -m 'Refresh public metadata catalog'
+          git push

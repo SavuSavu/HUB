@@ -1,0 +1,97 @@
+[
+  {
+    "id": "fsonline-app",
+    "name": "FSonline.app",
+    "url": "https://www3.fsonline.app/",
+    "search": "?s=",
+    "checkedAt": "2026-10-08T11:47:18.361Z",
+    "browserAccess": "static-only",
+    "playback": "external-only",
+    "count": 90,
+    "notes": [
+      "No authorized CORS-compatible direct media verified. Provider pages open externally."
+    ],
+    "status": 200,
+    "finalUrl": "https://www3.fsonline.app/home2/",
+    "cors": null
+  },
+  {
+    "id": "fsonline-one",
+    "name": "FSonline.one",
+    "url": "https://fsonline.one/",
+    "search": "?s=",
+    "checkedAt": "2026-10-08T11:47:19.289Z",
+    "browserAccess": "static-only",
+    "playback": "external-only",
+    "count": 144,
+    "notes": [
+      "No authorized CORS-compatible direct media verified. Provider pages open externally."
+    ],
+    "status": 200,
+    "finalUrl": "https://fsonline.one/",
+    "cors": null
+  },
+  {
+    "id": "sitefilme",
+    "name": "Sitefilme",
+    "url": "https://sitefilme.com/",
+    "checkedAt": "2026-10-08T11:47:19.727Z",
+    "browserAccess": "static-only",
+    "playback": "external-only",
+    "count": 50,
+    "notes": [
+      "No authorized CORS-compatible direct media verified. Provider pages open externally."
+    ],
+    "status": 200,
+    "finalUrl": "https://sitefilme.com/",
+    "cors": null
+  },
+  {
+    "id": "9anime-or",
+    "name": "9anime.or.at",
+    "url": "https://9anime.or.at/",
+    "search": "?s=",
+    "checkedAt": "2026-10-08T11:47:20.318Z",
+    "browserAccess": "static-only",
+    "playback": "external-only",
+    "count": 25,
+    "notes": [
+      "No authorized CORS-compatible direct media verified. Provider pages open externally."
+    ],
+    "status": 200,
+    "finalUrl": "https://9anime.or.at/",
+    "cors": null
+  },
+  {
+    "id": "gogoanime",
+    "name": "Gogoanime",
+    "url": "https://gogoanime.by/",
+    "search": "?s=",
+    "checkedAt": "2026-10-08T11:47:21.251Z",
+    "browserAccess": "static-only",
+    "playback": "external-only",
+    "count": 25,
+    "notes": [
+      "No authorized CORS-compatible direct media verified. Provider pages open externally."
+    ],
+    "status": 200,
+    "finalUrl": "https://gogoanime.by/",
+    "cors": null
+  },
+  {
+    "id": "9anime-cfd",
+    "name": "9anime.cfd",
+    "url": "https://9anime.cfd/",
+    "checkedAt": "2026-10-08T11:47:21.964Z",
+    "browserAccess": "static-only",
+    "playback": "external-only",
+    "count": 0,
+    "notes": [
+      "No supported static catalog cards found; dynamic or blocked source is unavailable.",
+      "No authorized CORS-compatible direct media verified. Provider pages open externally."
+    ],
+    "status": 200,
+    "finalUrl": "https://9anime.cfd/",
+    "cors": null
+  }
+]

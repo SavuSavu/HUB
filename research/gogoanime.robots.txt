@@ -1,0 +1,10 @@
+Sitemap: https://gogoanime.by/wp-sitemap.xml
+
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+# ---------------------------
+# END YOAST BLOCK
+Sitemap: https://gogoanime.by/sitemap.xml

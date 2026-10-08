@@ -1,0 +1,36 @@
+{
+  "origin": "http://localhost:5173",
+  "checkedAt": "2026-10-08T11:44:50.378Z",
+  "result": [
+    {
+      "url": "https://www3.fsonline.app/",
+      "accessible": false,
+      "error": "TypeError: Failed to fetch"
+    },
+    {
+      "url": "https://fsonline.one/",
+      "accessible": false,
+      "error": "TypeError: Failed to fetch"
+    },
+    {
+      "url": "https://sitefilme.com/",
+      "accessible": false,
+      "error": "TypeError: Failed to fetch"
+    },
+    {
+      "url": "https://9anime.or.at/",
+      "accessible": false,
+      "error": "TypeError: Failed to fetch"
+    },
+    {
+      "url": "https://gogoanime.by/",
+      "accessible": false,
+      "error": "TypeError: Failed to fetch"
+    },
+    {
+      "url": "https://9anime.cfd/",
+      "accessible": false,
+      "error": "TypeError: Failed to fetch"
+    }
+  ]
+}

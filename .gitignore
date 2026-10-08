@@ -1,0 +1,10 @@
+node_modules/
+dist/
+research/*.html
+*.tsbuildinfo
+test-results/
+playwright-report/
+.env
+.env.*
+!.env.example
+.hub-access.txt

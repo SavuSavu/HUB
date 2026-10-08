@@ -1,0 +1,1 @@
+`episode.webm` is a self-generated, silent, 12-second VP9 video, showing a solid dark color at 160×90 and 2 fps. It contains no provider media. Playwright serves it only through test request handlers, with byte-range responses to exercise real browser seeking and playback. It is outside `public/` and is never copied into the GitHub Pages build.
